@@ -1,0 +1,34 @@
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Retrowave Radio.exe.config
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Retrowave Radio.exe
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Retrowave Radio.pdb
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Retrowave Radio.exe
+c:\users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Retrowave Radio.pdb
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\JetBrains.Annotations.dll
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\NLog.dll
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\JetBrains.Annotations.xml
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\NLog.xml
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.App.config
+C:\Users\yagus\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\RetrowaveRadio.Properties.Resources.resources
