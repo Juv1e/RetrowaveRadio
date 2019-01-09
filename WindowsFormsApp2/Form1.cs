@@ -176,10 +176,18 @@ namespace WindowsFormsApp2
                         if (!Directory.Exists(DIR_DL))
                         {
                             Directory.CreateDirectory(DIR_DL);
+
                         }
-                        WebClient wc = new WebClient();
-                        wc.DownloadFile(urltrack, string.Format(DIR_DL + "\\" + trackname, Guid.NewGuid().ToString()));
-                        MessageBox.Show("Трек успешно сохранен в " + DIR_DL + "\\" + trackname);
+                        if (label3.Text == "RETROWAVE Radio is NOT playing!")
+                        {
+                            MessageBox.Show("Нечего сохранять :(");
+                        }
+                        if (label3.Text == "RETROWAVE Radio is playing!")
+                        {
+                            WebClient wc = new WebClient();
+                            wc.DownloadFile(urltrack, string.Format(DIR_DL + "\\" + trackname, Guid.NewGuid().ToString()));
+                            MessageBox.Show("Трек успешно сохранен в " + DIR_DL + "\\" + trackname);
+                        }
                     }
                     catch (Exception ex)
                     {
@@ -203,6 +211,10 @@ namespace WindowsFormsApp2
                 button4.Text = "Pause";
                 IsFirstClick = true;
             }
+        }
+
+        private void trackBar2_Scroll(object sender, EventArgs e)
+        {
         }
     }
     }
